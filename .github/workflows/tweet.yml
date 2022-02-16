@@ -3,6 +3,7 @@ name: "Tweet the DOG"
 on:
   schedule:
     - cron: "45 10 * * *"
+  push:
     
 
 jobs:
